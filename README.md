@@ -1,6 +1,6 @@
 ### Hello! :)
 
-## <img height="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/686/686317.png"> A Little About Myself
+## <img height="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/328/328178.png"> A Little About Myself
 
 <img width=30% align='right' margin-top:40px src="https://s2.glbimg.com/hgwJv5oSS4cDCYKjUvGu6qJTYmI=/e.glbimg.com/og/ed/f/original/2015/04/09/tumblr_mmwl4erfif1s2kxflo1_500.gif">
 <!--<img width=30% align='right' margin-top:40px src="https://s2.glbimg.com/hgwJv5oSS4cDCYKjUvGu6qJTYmI=/e.glbimg.com/og/ed/f/original/2015/04/09/tumblr_mmwl4erfif1s2kxflo1_500.gif">-->
