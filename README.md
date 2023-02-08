@@ -30,3 +30,32 @@ console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
 <div aling="center">
     
 </div>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>Currículo Profissional</title>
+</head>
+<body>
+    <div class="frame1">
+        <img src="img/Frame 2.svg">
+    </div>
+    <div class="ellipse10">
+
+    </div>
+    <div class="dev">
+
+    </div>
+    <div class="line7">
+
+    </div>
+    <div class="ldpcjbhr">
+
+    </div>
+</body>
+</html>
