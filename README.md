@@ -1,6 +1,8 @@
-### Hello! :)
+### Hello! My name is Vinícus Raniery ;)
 
-## <img height="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/328/328178.png"> A Little About Myself
+**I'm a programmer and software developer, get to know a little more about my work!**
+
+## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074182489251262484/no-mundo-todo.png"> A Little About Myself
 
 ![Vinícius Raniery's Status](https://github-readme-status.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
