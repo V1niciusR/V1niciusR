@@ -2,34 +2,9 @@
 
 ## <img height="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/328/328178.png"> A Little About Myself
 
-``` js
-class Dev {
-    constructor(name, area, languages) {
-        this.name = name;
-        this.area = area;
-        this.languages = languages;
-    }
-    getName() {
-        return this.name;
-    }
-    getArea() {
-        return this.area;
-    }
-    getLanguages() {
-        return this.languages;
-    }
-}
-var dev = new Dev("Vinícius Raniery", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
-console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
-'''
-
-### HI! 🍃
-
-## <img height="15" alt="about" src="https://cdn.discordapp.com/attachments/754089471670091800/1074151175101882458/Desktop_-_3.png"> A Little About Myself
-
 <!--<img width=30% align='right' margin-top:40px src="https://uploads-ssl.webflow.com/61c3a65ba1d08cc815d006aa/61ea06e89927efabae785e52_cat-typing.gif">-->
 <!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
-![Caio Farias's Status](https://github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true)
+![Vinícius Raniery's Status](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true)
 
 ## **Languages and Tools:**  
 
