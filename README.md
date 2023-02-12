@@ -21,7 +21,15 @@ class Dev {
 }
 var dev = new Dev("Vinícius Raniery", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
 console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
-```
+'''
+
+##
+
+<!--<img width=30% align='right' margin-top:40px src="https://uploads-ssl.webflow.com/61c3a65ba1d08cc815d006aa/61ea06e89927efabae785e52_cat-typing.gif">-->
+<!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
+![Caio Farias's Status](https://[github-readme-stats.vercel.app/api?username=caio-farias21&show_icons=true&theme=merko&hide_border=true)
+
+
 
 ## **Languages and Tools:**  
 
