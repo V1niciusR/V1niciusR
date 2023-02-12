@@ -6,6 +6,30 @@
 <!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
 ![Vinícius Raniery's Status](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true)
 
+
+
+class Dev {
+    constructor(name, area, languages) {
+        this.name = name;
+        this.area = area;
+        this.languages = languages;
+    }
+    getName() {
+        return this.name;
+    }
+    getArea() {
+        return this.area;
+    }
+    getLanguages() {
+        return this.languages;
+    }
+}
+var dev = new Dev("Vinícius Raniery", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
+console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
+
+
+
+
 ## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
