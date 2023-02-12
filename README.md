@@ -2,38 +2,28 @@
 
 ## <img height="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/328/328178.png"> A Little About Myself
 
-<!--<img width=30% align='right' margin-top:40px src="https://uploads-ssl.webflow.com/61c3a65ba1d08cc815d006aa/61ea06e89927efabae785e52_cat-typing.gif">-->
-<!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
-![Vinícius Raniery's Status](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true)
+![Vinícius Raniery's Status](https://github-readme-status.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 
 
-``` js
-class Dev {
-    constructor(name, area, languages) {
-        this.name = name;
-        this.area = area;
-        this.languages = languages;
-    }
-    getName() {
-        return this.name;
-    }
-    getArea() {
-        return this.area;
-    }
-    getLanguages() {
-        return this.languages;
-    }
-}
-var dev = new Dev("Vinícius Raniery", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
-console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
-```
+<div style="display: inline_block"><br>
+        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </div>
+    
+    
+    
+  ## 
+ 
+<div> 
+  <a href="#i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-
-
-## **Languages and Tools:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+                                                                                                                                               
