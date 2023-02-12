@@ -2,10 +2,6 @@
 
 ## <img height="35" alt="about" src="https://cdn-icons-png.flaticon.com/512/328/328178.png"> A Little About Myself
 
-<!--<img width=30% align='right' margin-top:40px src="https://uploads-ssl.webflow.com/61c3a65ba1d08cc815d006aa/61ea06e89927efabae785e52_cat-typing.gif">-->
-<!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
-![Vinícius Raniery's Status](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true)
-
 
 
 ``` js
@@ -29,6 +25,11 @@ var dev = new Dev("Vinícius Raniery", "Full Stack", ["Javascript", "HTML", "CSS
 console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
 ```
 
+
+
+<!--<img width=30% align='right' margin-top:40px src="https://uploads-ssl.webflow.com/61c3a65ba1d08cc815d006aa/61ea06e89927efabae785e52_cat-typing.gif">-->
+<!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
+![Vinícius Raniery's Status](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true)
 
 
 
