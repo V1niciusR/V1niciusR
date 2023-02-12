@@ -1,6 +1,9 @@
-### Hello! My name is Vinícus Raniery ;)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=header"/>
 
-**I'm a programmer and software developer, get to know a little more about my work!**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98FB98&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinícius+Raniery;I'm+17+years+old;I'm+from+Brazil;I'm+a+systems+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 
 ## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074182489251262484/no-mundo-todo.png"> A Little About Myself
 
@@ -27,5 +30,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98FB98&height=120&section=footer"/>
 
                                                                                                                                                
