@@ -5,11 +5,11 @@
 
 
 
-## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074182489251262484/no-mundo-todo.png"> A Little About Myself
+## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074819323165671485/anuncio.png"> A Little About Myself
 
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/V1niciusR">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V1niciusR&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&theme=dark&hide_border=false&&layout=compact"/>
   </a>
