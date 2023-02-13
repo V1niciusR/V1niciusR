@@ -7,11 +7,10 @@
 
 ## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074182489251262484/no-mundo-todo.png"> A Little About Myself
 
-![Vinícius Raniery's Status](https://github-readme-status.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&layout=compact&langs_count=7&theme=dark"/>
-</div>
+   ![Vinícius Raniery's Status](https://github-readme-status.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+   ![Vinícius Raniery's status](https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&layout=compact&langs_count=7&theme=dark)
 
 
 
