@@ -8,12 +8,12 @@
 ## <img height="35" alt="about" src="https://cdn.discordapp.com/attachments/1074182074933715047/1074819323165671485/anuncio.png"> A Little About Myself
 
 
-<div align="center">
-  <a href="https://github.com/V1niciusR">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V1niciusR&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
+  ![V1niciusR's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V1niciusR&theme=dark&hide_border=true&border_radius=5)
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&theme=dark&hide_border=true&&layout=compact&card_width=494px"/>
+  </div>
 
 
 
