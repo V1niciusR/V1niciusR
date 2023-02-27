@@ -9,11 +9,9 @@
 
 
 
-  ![V1niciusR's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V1niciusR&theme=dark&hide_border=true&border_radius=5)
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&theme=dark&hide_border=true&&layout=compact&card_width=494px"/>
-  </div>
+![V1niciusR's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1niciusR&show_icons=true&theme=dark&hide_border=true&count_private=true&card_width=494px)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V1niciusR&theme=dark&hide_border=true&border_radius=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1niciusR&layout=compact&show_icons=true&theme=dark&hide_border=true&card_width=494px)
 
 
 
